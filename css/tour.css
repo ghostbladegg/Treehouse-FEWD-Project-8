@@ -4,6 +4,10 @@ pre {
   font-family: 'Open Sans', sans-serif;
 }
 
+table {
+  color: #fff;
+}
+
 .heading{
   display: inline-block;
   margin: 0;
